@@ -22,7 +22,7 @@
 | **Sonic AI** | AI 음악 생성 + Web3 보상형 플랫폼 | Web | [소개](https://m.blog.naver.com/PostView.naver?blogId=labelfoundation&logNo=223489615584) |
 
 > 상용 서비스 및 출시 앱의 소스 코드는 비공개입니다.
-> 자세한 기술 경험과 성과는 **[포트폴리오](여기에-포트폴리오-URL)** 에서 확인하실 수 있습니다.
+> 자세한 기술 경험과 성과는 **[포트폴리오](https://harry1757.vercel.app)** 에서 확인하실 수 있습니다.
 
 <br/>
 
