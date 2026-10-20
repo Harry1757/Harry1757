@@ -1,6 +1,6 @@
 # 안녕하세요, 황순환입니다 👋
 
-**Web · iOS · webOS를 아우르는 5년 차 프론트엔드 개발자**입니다.
+**Web · iOS · webOS를 아우르는 6년차 프론트엔드 개발자**입니다.
 성능 병목을 직접 찾아 제거하고, 팀의 배포 안정성을 높이는 일에 주도적으로 기여해 왔습니다.
 
 - 🍳 최근 AI 레시피 추천 앱 **[뭐해먹지? 뚝딱!](https://apps.apple.com/app/id6769651796)** 을 App Store에 출시하고 운영 중입니다
@@ -38,3 +38,4 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **State & Data** React Query · Recoil · Redux(-Saga)  |  **Mobile & TV** SwiftUI · AVFoundation · Combine · webOS(Enact)  |  **Web3** Web3.js · Solana Wallet Adapter · LiFi SDK
+
